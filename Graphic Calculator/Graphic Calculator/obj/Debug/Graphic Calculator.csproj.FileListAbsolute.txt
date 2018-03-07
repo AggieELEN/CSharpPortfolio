@@ -1,0 +1,9 @@
+C:\Users\Crystal\Documents\Documents\Personal\Programming Practice\C#\Graphic Calculator\Graphic Calculator\bin\Debug\Graphic Calculator.exe.config
+C:\Users\Crystal\Documents\Documents\Personal\Programming Practice\C#\Graphic Calculator\Graphic Calculator\bin\Debug\Graphic Calculator.exe
+C:\Users\Crystal\Documents\Documents\Personal\Programming Practice\C#\Graphic Calculator\Graphic Calculator\bin\Debug\Graphic Calculator.pdb
+C:\Users\Crystal\Documents\Documents\Personal\Programming Practice\C#\Graphic Calculator\Graphic Calculator\obj\Debug\Graphic Calculator.csprojResolveAssemblyReference.cache
+C:\Users\Crystal\Documents\Documents\Personal\Programming Practice\C#\Graphic Calculator\Graphic Calculator\obj\Debug\Graphic_Calculator.Form1.resources
+C:\Users\Crystal\Documents\Documents\Personal\Programming Practice\C#\Graphic Calculator\Graphic Calculator\obj\Debug\Graphic_Calculator.Properties.Resources.resources
+C:\Users\Crystal\Documents\Documents\Personal\Programming Practice\C#\Graphic Calculator\Graphic Calculator\obj\Debug\Graphic Calculator.csproj.GenerateResource.Cache
+C:\Users\Crystal\Documents\Documents\Personal\Programming Practice\C#\Graphic Calculator\Graphic Calculator\obj\Debug\Graphic Calculator.exe
+C:\Users\Crystal\Documents\Documents\Personal\Programming Practice\C#\Graphic Calculator\Graphic Calculator\obj\Debug\Graphic Calculator.pdb
