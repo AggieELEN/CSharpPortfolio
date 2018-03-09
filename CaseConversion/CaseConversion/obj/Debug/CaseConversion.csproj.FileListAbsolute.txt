@@ -1,0 +1,9 @@
+C:\Users\Crystal\Documents\Documents\Personal\Programming Practice\C#\CaseConversion\CaseConversion\bin\Debug\CaseConversion.exe.config
+C:\Users\Crystal\Documents\Documents\Personal\Programming Practice\C#\CaseConversion\CaseConversion\bin\Debug\CaseConversion.exe
+C:\Users\Crystal\Documents\Documents\Personal\Programming Practice\C#\CaseConversion\CaseConversion\bin\Debug\CaseConversion.pdb
+C:\Users\Crystal\Documents\Documents\Personal\Programming Practice\C#\CaseConversion\CaseConversion\obj\Debug\CaseConversion.csprojResolveAssemblyReference.cache
+C:\Users\Crystal\Documents\Documents\Personal\Programming Practice\C#\CaseConversion\CaseConversion\obj\Debug\CaseConversion.Form1.resources
+C:\Users\Crystal\Documents\Documents\Personal\Programming Practice\C#\CaseConversion\CaseConversion\obj\Debug\CaseConversion.Properties.Resources.resources
+C:\Users\Crystal\Documents\Documents\Personal\Programming Practice\C#\CaseConversion\CaseConversion\obj\Debug\CaseConversion.csproj.GenerateResource.Cache
+C:\Users\Crystal\Documents\Documents\Personal\Programming Practice\C#\CaseConversion\CaseConversion\obj\Debug\CaseConversion.exe
+C:\Users\Crystal\Documents\Documents\Personal\Programming Practice\C#\CaseConversion\CaseConversion\obj\Debug\CaseConversion.pdb
